@@ -11,3 +11,10 @@ nav{
     text-align: right;
     background-color: black;
 }
+.headerimg{
+    background-color: silver;
+    height: 400px;
+    text-align: center;
+    line-height: 400px;
+    
+}
